@@ -1,4 +1,5 @@
-# InventoryApp
+# InventoryApp Android App
+
 This project was my final creation in my Android Studio development course, and is definitely the most complicated build. 
 It utilizes a Database Contract, a Database Helper, an information Provider, a custom Cursor Adapter for loading
 data in the background, and a full suite of separated and organized resource files. 
